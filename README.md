@@ -7,9 +7,8 @@ A simple MP3 Player built using HTML, CSS and JavaScript.
 
 
 ## Screenshots
+<img width="598" height="836" alt="Screenshot 2025-08-28 172135" src="https://github.com/user-attachments/assets/be1afe8d-d829-4d56-958f-dbd62d55ab10" />
 
-![App Screenshot](./assets/screen-shots/image-1.png)
-![](assets/screen-shots/image-2.png)
 
 
 ## Features
